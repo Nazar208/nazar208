@@ -1,2 +1,1 @@
-#Spanish software developer  
-currently learning
+## Spanish software developer  
